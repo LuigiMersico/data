@@ -1,1 +1,1 @@
-# data
+# vocabulary for sentiment analysis
